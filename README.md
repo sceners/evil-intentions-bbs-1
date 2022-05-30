@@ -2,7 +2,7 @@
 
 #### Written in 1995 for MS-DOS
 
-> Programmed in 100% ASM by Earwax/Myst in ''95'
+> Programmed in 100% ASM by Earwax/Myst in '95'
 
 > Player by Chicken/ECR
 
